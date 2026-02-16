@@ -6,13 +6,6 @@
       "expires": 1893456000,
       "features": ["full"],
       "status": "active"
-    },
-    {
-    "SH4DOW-D4DY": {
-      "device_id": null,
-      "expires": 1893456000,
-      "features": ["full"],
-      "status": "active"
     }
   }
 }
