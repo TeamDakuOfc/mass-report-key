@@ -1,0 +1,7 @@
+requests
+requests[socks]
+configparser
+random-user-agent
+emailtools
+bs4
+phonenumbers
