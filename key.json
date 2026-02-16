@@ -1,16 +1,10 @@
 {
-  "version": "1.0",
+  "version": "2.0",
   "keys": {
-    "PREMIUM-001-ABC123": {
-      "device_id": AE2BC9A5AF7E7AC8,
-      "expires": 1735689600,
-      "features": ["full", "export", "api", "unlimited"],
-      "status": "active"
-    },
-    "BASIC-002-XYZ789": {
+    "PREMIUM-001": {
       "device_id": null,
-      "expires": 1739318400,
-      "features": ["basic"],
+      "expires": 1893456000,
+      "features": ["full"],
       "status": "active"
     }
   }
